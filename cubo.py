@@ -12,7 +12,6 @@ NOTE que você deve imprimir os <espaços> entre os números =  a^3<espaço>+<es
 Imprimir as saídas ordenadas pelo valor da SOMA, conforme observado no exemplo abaixo.
 
 """
-
 numero = int(input())
 limite = int(numero ** (1 / 3))
 numeros_ja_impresos = []
